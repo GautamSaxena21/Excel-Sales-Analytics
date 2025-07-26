@@ -1,34 +1,36 @@
-# Excel-Sales-Analytics
-My Excel project on Sales Analytics of AtliQ Hardware
+# Sales Analytics Project
 
-## Sales Report :
+## Project Overview
 
+This project provides a comprehensive analysis of sales data for AtliQ Hardware. The primary objectives are to monitor and evaluate sales activities, identify patterns, and track key performance indicators (KPIs). The insights derived from this analysis are intended to empower the business to make data-driven decisions regarding customer discounts, contract negotiations, and strategic expansion opportunities.
 
-- **Project objective:** 
+## Key Reports and Insights
 
-    **1.** Create a _[customer performance report]   (https://github.com/GautamSaxena21/Excel-Sales-Analytics/blob/main/Project_Sales_Report_1.pdf)
+This repository contains a collection of PDF reports that provide detailed insights into various aspects of sales performance. Here's a summary of the available reports:
 
-  **2.** Conduct a comprehensive comparison between _[market performance and sales targets] (https://github.com/GautamSaxena21/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)
+*   **Division Growth Report:** Analyzes the sales growth of different divisions within the company.
+*   **Market Performance Report:** Compares the company's sales performance against market benchmarks and targets.
+*   **New Products 2021:** Evaluates the performance of new products introduced in 2021.
+*   **Project Sales Report:** Provides a comprehensive overview of the overall sales performance for the project.
+*   **Top 10 Products:** Highlights the top 10 best-selling products.
+*   **Top 5 Countries 2021:** Identifies the top 5 performing countries in terms of sales in 2021.
+*   **Top & Bottom 5 Products Sold:** Presents an analysis of the best and worst-selling products, offering insights into product performance and customer preferences.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+## Technical Skills Demonstrated
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+*   **ETL Methodology:** Proficiency in extracting, transforming, and loading data for analysis.
+*   **Power Query:** Skills in generating a date table and performing data transformations.
+*   **Power Pivot:** Ability to establish and manage data model relationships.
+*   **DAX:** Proficiency in creating calculated columns and measures using Data Analysis Expressions (DAX).
+*   **Data Modeling:** Experience in incorporating supplementary data into existing data models.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+## Soft Skills Demonstrated
 
+*   **Analytical Skills:** A refined understanding of sales reporting and data analysis.
+*   **User-Centric Design:** Designing reports with a focus on user needs and empathy.
+*   **Report Optimization:** Meticulously fine-tuning reports for optimal performance and clarity.
+*   **Systematic Planning:** Developing a structured approach to report building and data analysis.
 
+## How to Use This Repository
 
-
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales Report
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+The PDF reports in this repository can be viewed to gain insights into the sales performance of AtliQ Hardware. Each report focuses on a specific area of the business, providing valuable data for strategic decision-making.
